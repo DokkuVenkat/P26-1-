@@ -1,0 +1,1 @@
+Burger buns,Oil,Lettuce,Tomatoes,Potatoes,Cheese Slices,Mayoneise,Ketchup,Chilli Powder,Salt,Bread crumps,olives,Onions,Coriander leaves,Conflour,Water.
